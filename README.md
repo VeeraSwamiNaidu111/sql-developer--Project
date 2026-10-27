@@ -33,10 +33,15 @@ Uses fictional employee data for practice and demonstration.
 I am a B.Tech graduate in Electronics and Communication Engineering, building my SQL and database development skills.
 
 Name: Saladi Veera Swami Naidu
+
 Location: Amalapuram, Andhra Pradesh, India
+
 Mobile Number : 966785575
+
 Email : veeraswamisaladi97@gmail.com
+
 Career Interest: Junior SQL Developer
+
 GitHub: https://github.com/VeeraSwamiNaidu11
 
 I am looking for entry-level SQL Developer opportunities where I can apply my SQL skills and grow as a database professional.
